@@ -1,0 +1,12 @@
+{
+  "test": {
+    "PORT": 1234,
+    "MONGODB_URI": "uri for test db instance",
+    "JWT_SECRET": "some random secret"
+  },
+  "development": {
+    "PORT": 1234,
+    "MONGODB_URI": "uri for development db instance",
+    "JWT_SECRET": "some random secret"
+  }
+}
